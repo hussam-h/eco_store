@@ -15,7 +15,7 @@ class EcoStore extends StatelessWidget {
         home: Scaffold(
           appBar: AppBar(
             title: const Text(
-              "Eco Store",
+              "Eco Storee",
             ),
             centerTitle: true,
           ),
