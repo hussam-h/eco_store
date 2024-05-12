@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608045982188",
+    "project_id": "ecoapp-aa095",
+    "storage_bucket": "ecoapp-aa095.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608045982188:android:f249f6614f24c60f2da0c9",
+        "android_client_info": {
+          "package_name": "com.example.eco_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3nS5TwOyOstTmIzhyKr44RQSmxD7VsMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
