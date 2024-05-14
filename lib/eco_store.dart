@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 class EcoStore extends StatelessWidget {
   const EcoStore({super.key});
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -15,10 +14,10 @@ class EcoStore extends StatelessWidget {
         home: Scaffold(
           appBar: AppBar(
             title: const Text(
-              "Eco Storee",
+              'Eco Store',
             ),
             centerTitle: true,
           ),
-        ));
+        ),);
   }
 }
